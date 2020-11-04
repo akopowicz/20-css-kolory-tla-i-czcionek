@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+h1 {
+    color: purple;
+    background-color: lightpink;
+}
+
+p {
+    color: snow;
+    background-color: lightseagreen;
+}
+
+h2 {
+    color: navy;
+    background-color: lightsteelblue;
+}
+
+h2 + p {
+    color: maroon;
+    background-color: mediumaquamarine;
+}
+
+ol {
+    background-color: mediumpurple;
+}
+
+#item1 {
+    color: gold;
+}
+
+#item2 {
+    color: green;
+}
+
+#item3 {
+    color: hotpink;
+}
+
+#item4 {
+    color: lavender;
+}
+
+#item5 {
+    color: lawngreen;
+}
